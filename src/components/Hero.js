@@ -11,7 +11,7 @@ export default function Hero() {
           Building AI Products, Scaling Teams &amp; Growing in Public
         </h1>
         <p className="max-w-xl mx-auto lg:mx-0 text-lg md:text-xl text-subtle-light dark:text-subtle-dark mb-10">
-          I&apos; m Faiz Hameed, a Software Engineer at Google and
+          I&apos; m Faiz Hameed, Software Engineer at Google and
           founder, sharing my journey of building great products and teams.
         </p>
         <div className="flex flex-col sm:flex-row justify-center lg:justify-start items-center gap-4">
