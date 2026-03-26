@@ -56,9 +56,9 @@ const timelineData = [
     year: "2024 – Present",
     type: "project",
     role: "Founder & Engineer",
-    company: "Flovy (Personal AI Productivity App)",
+    company: "Flovy (AI Verdict Passive System)",
     description:
-      "Building an AI-powered productivity assistant that integrates calendar, tasks, and workflows. Focused on automations, daily planning, and personal intelligence.",
+      "An AI-powered system that analyzes how your time is structured and issues a verdict highlighting patterns that quietly block progress.",
   },
   {
     id: 7,
