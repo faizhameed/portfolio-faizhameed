@@ -18,7 +18,7 @@ export default function BlogPage() {
             </p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-            {mediumPosts.map((post, index) => (
+            {[...mediumPosts].reverse().map((post, index) => (
               <Link
                 key={index}
                 href={post.node.url}

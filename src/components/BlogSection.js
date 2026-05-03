@@ -5,7 +5,7 @@ import { HiOutlineArrowRight } from "react-icons/hi2";
 
 export default function BlogSection() {
   // Get the first 3 posts for the homepage
-  const featuredPosts = mediumPosts.slice(0, 3);
+  const featuredPosts = [...mediumPosts].reverse().slice(0, 3);
 
   return (
     <section id="blog">
