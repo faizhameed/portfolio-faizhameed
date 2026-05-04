@@ -1,0 +1,58 @@
+[
+  {
+    "title": "How I Built My Reputation as a Software Engineer: 3 Key Steps That Led to Google",
+    "url": "https://faizhameed.medium.com/how-i-built-my-reputation-as-a-software-engineer-3-key-steps-that-led-to-google-2c7caa24a3a5",
+    "publishedDate": "August 15, 2024",
+    "date": "Thu, 15 Aug 2024 09:55:13 GMT",
+    "excerpt": "How I Built My Reputation as a Software Engineer: 3 Key Steps That Led to Google — A Beginner’s GuidePersonally, these steps were key in helping me land a software engineering role at Google. Im talki...",
+    "image": "https://cdn-images-1.medium.com/max/1024/1*HexXnHH5x1Lx9IqxoNAU4A.jpeg"
+  },
+  {
+    "title": "From Mechanical Engineering to Google: A Self-Taught Engineer’s Guide to Cracking the Google…",
+    "url": "https://faizhameed.medium.com/how-i-cleared-google-interviews-being-a-self-taught-software-developer-1bf77e3301b2",
+    "publishedDate": "April 23, 2023",
+    "date": "Sun, 23 Apr 2023 09:16:03 GMT",
+    "excerpt": "From Mechanical Engineering to Google: A Self-Taught Engineer’s Guide to Cracking the Google InterviewPhoto by Joshua Earle on UnsplashThis piece of writing to respond to the numerous inquiries I rece...",
+    "image": "https://cdn-images-1.medium.com/max/1024/0*z1wYmDyLefdgR5hm"
+  },
+  {
+    "title": "Open the lock problem with JavaScript",
+    "url": "https://faizhameed.medium.com/open-the-lock-problem-with-javascript-1893d043aef6",
+    "publishedDate": "November 17, 2021",
+    "date": "Wed, 17 Nov 2021 14:17:00 GMT",
+    "excerpt": "You have a lock in front of you with 4 circular wheels. Each wheel has 10 slots: '0', '1', '2', '3', '4', '5', '6', '7', '8', '9'. The wheels can rotate freely and wrap around: for example we can turn...",
+    "image": null
+  },
+  {
+    "title": "Redux-Saga with React -  Fetching from Geolocation API",
+    "url": "https://faizhameed.medium.com/redux-saga-with-react-fetching-from-geolocation-api-1ec8bf59d7cd",
+    "publishedDate": "October 29, 2020",
+    "date": "Thu, 29 Oct 2020 16:12:28 GMT",
+    "excerpt": "Redux-Saga with React - Fetching from Geolocation APIGeolocation works just as an asynchronous call. It's fairly simple to fetch it and store it in the component state with react. With redux-saga, you...",
+    "image": "https://cdn-images-1.medium.com/max/1024/1*E30eXZaY0QxMZr_KPOvugA.png"
+  },
+  {
+    "title": "Redux with React for Complete Beginners",
+    "url": "https://faizhameed.medium.com/redux-with-react-for-complete-beginners-2dad3ec9632b",
+    "publishedDate": "May 17, 2020",
+    "date": "Sun, 17 May 2020 11:45:04 GMT",
+    "excerpt": "Photo by Umberto on UnsplashWhen I was beginning with react it was a little bit hard to get around with redux state management. I failed interviews because I couldn’t explain well how this works. And ...",
+    "image": "https://cdn-images-1.medium.com/max/1024/1*3IdTLOktQ-eXg30W5A9znw.jpeg"
+  },
+  {
+    "title": "JavaScript solution for odd occurrences in an array",
+    "url": "https://faizhameed.medium.com/javascript-solution-for-odd-occurrences-in-an-array-eab4ece8bc97",
+    "publishedDate": "August 29, 2019",
+    "date": "Thu, 29 Aug 2019 04:56:04 GMT",
+    "excerpt": "JavaScript solution for Odd Occurrences In an ArrayThis is the codility problem in Lesson #2.1A non-empty array A consisting of N integers is given. The array contains an odd number of elements, and e...",
+    "image": null
+  },
+  {
+    "title": "How I transitioned from Mechanical Engineering into Web Developer Full Time",
+    "url": "https://medium.com/zerotomastery/how-i-transitioned-from-mechanical-engineering-into-web-developer-full-time-3e7ddc236388",
+    "publishedDate": "July 29, 2019",
+    "date": "Mon, 29 Jul 2019 04:00:26 GMT",
+    "excerpt": "Photo by Christopher Gower on UnsplashUnarguably Mechanical Engineering is one of the best fields of engineering to pursue. But the taste and passion can be different for people. But every decision yo...",
+    "image": "https://cdn-images-1.medium.com/max/1024/1*NlqpTTAM8DbGl4paBmjE_g.jpeg"
+  }
+]
