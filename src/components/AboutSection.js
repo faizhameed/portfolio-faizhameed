@@ -1,6 +1,6 @@
+import Link from "next/link";
 import { FaGoogle } from "react-icons/fa";
 import { HiOutlineDocumentText } from "react-icons/hi2";
-import Link from "next/link";
 
 export default function AboutSection() {
   return (
@@ -40,17 +40,16 @@ export default function AboutSection() {
           <div className="flex items-start gap-4 p-4 rounded-xl hover:bg-background-light dark:hover:bg-background-dark transition-colors">
             <div className="w-12 h-12 rounded-lg bg-indigo-500 flex-shrink-0"></div>
             <div>
-              <h3
-                href="https://syndax.io"
+              <a
+                href="https://flovy.ai"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="font-bold text-lg"
               >
-                Syndax.io
-              </h3>
+                <h3>Flovy.ai</h3>
+              </a>
               <p className="text-subtle-light dark:text-subtle-dark">
-                AI-powered software development platform for startups and
-                enterprises.
+                AI powered coaching platform.
               </p>
             </div>
           </div>
