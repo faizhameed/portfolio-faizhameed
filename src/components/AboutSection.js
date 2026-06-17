@@ -1,6 +1,6 @@
+import Link from "next/link";
 import { FaGoogle } from "react-icons/fa";
 import { HiOutlineDocumentText } from "react-icons/hi2";
-import Link from "next/link";
 
 export default function AboutSection() {
   return (
@@ -41,16 +41,15 @@ export default function AboutSection() {
             <div className="w-12 h-12 rounded-lg bg-indigo-500 flex-shrink-0"></div>
             <div>
               <h3
-                href="https://syndax.io"
+                href="https://flovy.ai"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="font-bold text-lg"
               >
-                Syndax.io
+                Flovy.ai
               </h3>
               <p className="text-subtle-light dark:text-subtle-dark">
-                AI-powered software development platform for startups and
-                enterprises.
+                AI powered coaching platform.
               </p>
             </div>
           </div>
