@@ -40,14 +40,14 @@ export default function AboutSection() {
           <div className="flex items-start gap-4 p-4 rounded-xl hover:bg-background-light dark:hover:bg-background-dark transition-colors">
             <div className="w-12 h-12 rounded-lg bg-indigo-500 flex-shrink-0"></div>
             <div>
-              <h3
+              <a
                 href="https://flovy.ai"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="font-bold text-lg"
               >
-                Flovy.ai
-              </h3>
+                <h3>Flovy.ai</h3>
+              </a>
               <p className="text-subtle-light dark:text-subtle-dark">
                 AI powered coaching platform.
               </p>
